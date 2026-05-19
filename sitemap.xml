@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://md-renov-annecy-moustiquaires.vercel.app/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/6.png</image:loc>
+      <image:caption>Moustiquaire enroulable sur mesure installÃ©e sur une fenÃªtre de chambre</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/4.png</image:loc>
+      <image:caption>Moustiquaire plissÃ©e sur mesure installÃ©e sur une baie vitrÃ©e</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/3.png</image:loc>
+      <image:caption>Grande baie vitrÃ©e Ã©quipÃ©e d'une moustiquaire sur mesure</image:caption>
+    </image:image>
+  </url>
+</urlset>
