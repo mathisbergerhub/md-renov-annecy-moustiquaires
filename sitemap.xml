@@ -4,20 +4,20 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
   <url>
-    <loc>https://md-renov-annecy-moustiquaires.vercel.app/</loc>
+    <loc>https://moustiquaires-annecy.mdrenov-menuiserie.com/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/6.png</image:loc>
+      <image:loc>https://moustiquaires-annecy.mdrenov-menuiserie.com/6.png</image:loc>
       <image:caption>Moustiquaire enroulable sur mesure installée sur une fenêtre de chambre</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/4.png</image:loc>
+      <image:loc>https://moustiquaires-annecy.mdrenov-menuiserie.com/4.png</image:loc>
       <image:caption>Moustiquaire plissée sur mesure installée sur une baie vitrée</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://md-renov-annecy-moustiquaires.vercel.app/3.png</image:loc>
+      <image:loc>https://moustiquaires-annecy.mdrenov-menuiserie.com/3.png</image:loc>
       <image:caption>Grande baie vitrée équipée d'une moustiquaire sur mesure</image:caption>
     </image:image>
   </url>
